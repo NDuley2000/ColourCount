@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Function CountByColour(rng As Range, refCell As Range) As Long
     Dim cell As Range
     Dim counter As Long
